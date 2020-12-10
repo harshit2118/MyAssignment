@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "name": "Harshit Joshi",
+      "age": "23",
+      "sex": "Male",
+      "role": "Developer",
+      "email": "hrshtjoshi238@gmail.com",
+      "phone": "904 562 2118",
+      "id": 15
+    },
+    {
+      "name": "xyz",
+      "age": "45",
+      "sex": "Female",
+      "role": "assa",
+      "email": "hrshtjoshi238@gmail.com",
+      "phone": "904 562 2118",
+      "id": 16
+    },
+    {
+      "name": "jjjjj",
+      "age": "23",
+      "sex": "Male",
+      "role": "helper",
+      "email": "hrshtjoshi238@gmail.com",
+      "phone": "0904 562 2118",
+      "id": 17
+    },
+    {
+      "name": "JOSHI",
+      "age": "66",
+      "sex": "Male",
+      "role": "RRR",
+      "email": "TRRT@gmail.com",
+      "phone": "999999999",
+      "id": 18
+    }
+  ]
+}
