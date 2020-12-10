@@ -50,11 +50,6 @@ const AddEmployee=()=>{
     
                   <input type="submit" value="Add"/>
             </form>
-    
-            <div className="LinksOfHome">
-             <a href="http://">Home</a>
-             <a href="http://">Employees List</a>
-            </div>
         </div>
             
     );
